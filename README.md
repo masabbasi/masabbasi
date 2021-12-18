@@ -1,7 +1,9 @@
-🍂 Currently learning node.js
-🔮 React.js, TailwindCSS
-🌍 Self-motivated
-👾 I write comments on my codes & I am fine with it.
+<strong>Aboute Me</strong>
+<hr>
+🔭 I’m currently working on HTML & CSS <br />
+🌱 I’m currently learning JS <br />
+💬 Ask me about HTML & Css <br />
+📫 How to reach me: masoud.abbasi.71@gmail.com
 
 <!--
 **masabbasi/masabbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
