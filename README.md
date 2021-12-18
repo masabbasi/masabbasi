@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋🍂 Currently learning node.js
+🔮 React.js, TailwindCSS
+🌍 Self-motivated
+👾 I write comments on my codes & I am fine with it.
 
 <!--
 **masabbasi/masabbasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
