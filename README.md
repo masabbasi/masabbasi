@@ -1,4 +1,4 @@
-### Hi there 👋🍂 Currently learning node.js
+🍂 Currently learning node.js
 🔮 React.js, TailwindCSS
 🌍 Self-motivated
 👾 I write comments on my codes & I am fine with it.
