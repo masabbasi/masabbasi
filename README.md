@@ -3,7 +3,6 @@
 🌱 I’m currently learning JS <br />
 💬 Ask me about HTML & Css <br />
 📫 How to reach me: masoud.abbasi.71@gmail.com
----
 
 ## **:part_alternation_mark: Stats**
 
