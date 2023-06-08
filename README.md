@@ -1,7 +1,7 @@
 ## **About me**
 🔭 I’m currently working on HTML & CSS <br />
-🌱 I’m currently learning JS <br />
-💬 Ask me about HTML & Css <br />
+🌱 I’m currently learning React <br />
+💬 Ask me about HTML, Css & JS<br />
 📫 How to reach me: masoud.abbasi.71@gmail.com
 
 ## **:part_alternation_mark: Stats**
